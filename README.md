@@ -1,2 +1,3 @@
 # kusojisho
-one-page, searchable, static dictionary
+one-page, searchable, static glossary
+
